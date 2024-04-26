@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Ovo&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+    /* font-family: "Ovo", serif; */
+    color: var(--cor0);
+    font-weight: 700;
+}
+
+:root {
+    --cor0: #FFFFFF;
+    --cor1: #614B65;
+    --cor2: #9A7AA0;
+    --cor3: #5C5762;
+    --cor4: #C4C4C4;
+    --cor5: #8D94BA;
+    --cor6: #542D84;
+    --cor7: #749497;
+    --cor8: #5C5762;
+    --cor9: #3D4F46;
+    --cor10: #000000;
+    --cor11: #303030;
+    --cor12: #FFA4A4;
+    --cor13: #FFAA00;
+}
+
+body {
+    background-color: rgba(180, 180, 180, 0.767);
+}
+
+.showcase {
+    background-image: url("images/images/image\ 1.png");
+}
