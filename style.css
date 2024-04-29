@@ -37,5 +37,21 @@ body {
 }
 
 .showcase {
-    background-image: url("images/images/image\ 1.png");
+    background-image: url("images/images/image-1.png");
+}
+
+.image-with-text {
+    background-image: url("images/images/mulher-brinco.png");
+    width: 518px;
+    height: 565px;
+}
+
+.footer-backgroud-image {
+    background: url("images/images/background-borboleta.png") no-repeat;
+    width: 100vw;
+    height: 621px;
+}
+
+.scroll {
+    height: 3000px;
 }
